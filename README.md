@@ -23,7 +23,7 @@ This project was created as a learning exercise to demonstrate the following con
 - Managing application state using React's Context API.
 - Handling user interactions and form submissions.
 - Fetching and displaying data from a mock API.
-- Creating a responsive and visually appealing design with CSS.
+- Creating a responsive and visually appealing design with TailwindCSS.
 
 Feel free to explore the code and use it as a reference for your React development projects.
 
@@ -100,4 +100,6 @@ Customize this template with specific details about your app, such as installati
 1. useState
 2. useReducer
 3. useContext
+
+# Tailwind CSS
    
