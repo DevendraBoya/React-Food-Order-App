@@ -39,10 +39,10 @@ Feel free to explore the code and use it as a reference for your React developme
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **React Router**: For handling navigation within the app.
+- **React State(useState, useReducer)**: For Managing the app state.
 - **React Context API**: To manage application state.
-- **CSS**: Custom styling for the user interface.
-- **JSON Server**: A mock API for simulating data retrieval.
+- **Tailwind CSS**: Custom styling for the user interface.
+
 
 ## Installation
 
@@ -101,5 +101,4 @@ Customize this template with specific details about your app, such as installati
 2. useReducer
 3. useContext
 
-# Tailwind CSS
-   
+
